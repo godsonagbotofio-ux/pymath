@@ -16,10 +16,15 @@ class Matrix:
 
     def __str__(self):
         texte = ""
+<<<<<<< HEAD
 
         for ligne in self.data:
             ligne_arrondie = [round(x, 10) for x in ligne]
             texte += str(ligne_arrondie) + "\n"
+=======
+        for ligne in self.data:
+            texte += str(ligne) + "\n"
+>>>>>>> 4452d668d38c44cd9d3d8e98c090e082b6bf6421
 
         return texte
 
