@@ -1,0 +1,9 @@
+README.md
+setup.py
+pymath/__init__.py
+pymath/matrix.py
+pymath.egg-info/PKG-INFO
+pymath.egg-info/SOURCES.txt
+pymath.egg-info/dependency_links.txt
+pymath.egg-info/top_level.txt
+tests/test_matrix.py
